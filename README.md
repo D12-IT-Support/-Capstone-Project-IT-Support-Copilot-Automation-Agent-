@@ -1,9 +1,5 @@
-
----
-
-## README.md
-
-# IT Support Assistant Agent
+## Capstone Project: IT Support Copilot Automation Agent 
+# Sentience IT Agent
 
 ## Overview
 
